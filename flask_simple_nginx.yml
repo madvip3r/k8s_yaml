@@ -141,7 +141,7 @@ metadata:
     kubernetes.io/ingress.class: "nginx"
 spec:
   rules:
-  - host: flask.rfed.io
+  - host: flask.zabec.net
     http:
       paths:
       - path: /
